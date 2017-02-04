@@ -1,5 +1,5 @@
 /*
-						Tower of Hanoi(Iterative)
+			Tower of Hanoi(Iterative)
 ----------------------------------idea------------------------------------
 The basic idea is the same as that in the recursive version of the problem.
 However, here the algorithm changes:-
