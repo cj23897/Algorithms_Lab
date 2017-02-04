@@ -1,5 +1,5 @@
 /*
-										Tower of Hanoi(Recursive)
+						Tower of Hanoi(Recursive)
 	---------------------------------------------idea----------------------------------------------------
 	The basic idea is that we know that when there is only one ring then we can simply transfer it.
 	So, we'll transfer n-1 rings from source to auxiliary rod and then nth ring from source to destination
