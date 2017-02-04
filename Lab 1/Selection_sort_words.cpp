@@ -1,3 +1,8 @@
+/*
+c++ program for selection sort of words lexograhically.
+Put all the words in a words.dat file and save it in the 
+same directory as that of this program.
+*/
 #include <bits/stdc++.h>
 #define pb push_back
 #define mp make_pair
