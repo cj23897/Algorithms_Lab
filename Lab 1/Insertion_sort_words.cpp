@@ -1,3 +1,8 @@
+/*
+c++ program for insertion sort of words lexographically.
+Put all the words in a words.dat file and save it in the 
+same location as that of this program.
+*/
 #include <bits/stdc++.h>
 #define pb push_back
 #define mp make_pair
