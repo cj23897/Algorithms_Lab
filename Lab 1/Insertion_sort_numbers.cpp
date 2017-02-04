@@ -1,5 +1,6 @@
 /*
 c++ program for insertion sort.
+For input put the numbers in a numbers.dat file
 */
 #include <bits/stdc++.h>
 #define pb push_back
