@@ -1,4 +1,7 @@
-	#include <bits/stdc++.h>
+/*
+c++ program for Bubble Sort of words lexographically.
+*/
+#include <bits/stdc++.h>
 #include <ctime>
 #define pb push_back
 #define mp make_pair
