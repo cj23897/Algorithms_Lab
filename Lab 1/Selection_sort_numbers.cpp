@@ -1,3 +1,8 @@
+/*
+c++ program for selection sort.
+Put all the numbers in numbers.dat file and save
+it in the same location as that of this program.
+*/
 #include <bits/stdc++.h>
 #define pb push_back
 #define mp make_pair
